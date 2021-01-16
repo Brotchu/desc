@@ -8,6 +8,6 @@ Written in Go.
 build the main package.
 Add the created binary to your bin path.
 
-To Initiate the directory             --> desc init
-To add Description against a file     --> desc -m <description> <filename>
-To list descriptions along with files --> desc -l
+To Initiate the directory             --> desc init <br /> 
+To add Description against a file     --> desc -m <description> <filename> <br /> 
+To list descriptions along with files --> desc -l 
